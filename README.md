@@ -26,11 +26,5 @@ This project replicates the core layout, typography, animations, and styling of 
 - The footer section is intentionally left minimal to focus on the core layout, styling, and media behavior.
 - This project is not affiliated with Slack and is intended for learning and portfolio purposes only.
 
-## 📁 Setup
-
-To run locally:
-
-
-
 ## ✨ Inspiration
 This clone is based on Slack’s official homepage as a practice challenge in front-end development.
