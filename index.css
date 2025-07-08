@@ -205,8 +205,7 @@ nav {
 .PM-feature,
 .Integrations-feature,
 .AgentForce-feature,
-.Slack-feature,
-.gradient-container {
+.Slack-feature {
     display: flex;
     flex-direction: column;
     justify-content: center;
